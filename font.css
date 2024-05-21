@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Heroeau';
+    src: url('./fonts/heroeau.woff2') format('woff2'),
+         url('./fonts/heroeau.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: url('./fonts/rubik.woff2') format('woff2'),
+         url('./fonts/rubik.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
